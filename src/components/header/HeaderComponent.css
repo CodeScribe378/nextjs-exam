@@ -1,0 +1,14 @@
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+    padding-top: 20px
+}
+
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px
+}
